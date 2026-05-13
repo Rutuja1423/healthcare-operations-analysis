@@ -177,6 +177,6 @@ python python/healthcare_dashboard.py
 
 ## Author
 
-**Healthcare Data Analyst**
+**Rutuja Shinde**
 
 This project demonstrates proficiency in SQL-based healthcare analytics, data quality management, KPI development, and visual storytelling for operational decision-making.
