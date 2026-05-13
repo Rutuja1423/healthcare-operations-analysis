@@ -1,0 +1,7 @@
+department,total_patients,avg_los_days,total_revenue,revenue_per_patient,collection_rate_pct,total_bills
+General Medicine,21,3.5,454500,21642.86,73.6,25
+Orthopedics,6,133.0,320000,53333.33,31.6,7
+Cardiology,6,132.5,955000,159166.67,5.5,10
+Neurology,9,187.3,396200,44022.22,9.1,9
+Pediatrics,4,2.0,44500,11125.0,100.0,4
+Emergency,4,1.8,25000,6250.0,100.0,5
